@@ -1,6 +1,6 @@
 # SC1015 Project - Stock Market Price Predictor
 
-For a more detailed description of our project, please view this video: 
+For a more detailed description of our project, please view this video: https://youtu.be/QVAN8M6Gg_c
 
 
 # Overview
