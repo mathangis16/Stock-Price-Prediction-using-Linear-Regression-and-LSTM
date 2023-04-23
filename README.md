@@ -1,6 +1,6 @@
 # SC1015 Project - Stock Market Price Predictor
 
-> :warning: For reviewing our code, please refer to https://nbviewer.org/github/mathangis16/Stock-Price-Prediction-using-Linear-Regression-and-LSTM/blob/main/A137_grp2_Stock_market_price_predictor_FINAL.ipynb 
+> :warning: **PLEASE READ** For reviewing our code, please refer to https://nbviewer.org/github/mathangis16/Stock-Price-Prediction-using-Linear-Regression-and-LSTM/blob/main/A137_grp2_Stock_market_price_predictor_FINAL.ipynb 
 Reason: We leveraged Plotly for visualizing data and unfortunately github does not support rendering embedded HTML/JavaScript that makes up a plotly graph (as seen here: https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files) 
 
 ### For a more detailed description of our project, please view this **video**: https://youtu.be/QVAN8M6Gg_c
